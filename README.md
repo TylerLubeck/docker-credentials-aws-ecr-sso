@@ -46,7 +46,9 @@ latest: Pulling from <REPOSITORY>
 
 # Testing
 I've tested this with an AWS CLI configured with two SSO-enabled profiles.
+
 I have not tested this for any profiles that authenticate to one region and attempt to access AWS ECR repositories in another
+
 I've tested this on MacOS 11.0.1 with the following docker client version:
 ```
 ➜ docker version
