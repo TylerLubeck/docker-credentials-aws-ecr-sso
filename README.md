@@ -82,3 +82,9 @@ Server: Docker Engine - Community
   Version:          0.19.0
   GitCommit:        de40ad0
 ```
+
+I've tested this with the following aws cli version:
+```
+➜ aws --version
+aws-cli/2.1.18 Python/3.9.1 Darwin/20.1.0 source/x86_64 prompt/off
+```
